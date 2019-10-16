@@ -1,2 +1,3 @@
 # submodule
 # mainA
+# mainB
